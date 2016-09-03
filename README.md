@@ -27,3 +27,6 @@ Completed all of the 3 levels (100%), even answered the advanced question.
 Because this is a live and open challenge (until 15-Sep-2016),
 there are no solutions released for public here (now).
 
+Encrypted completed questionnaire is available
+[here](./Antwortbogen-itoth.pdf.enc) in the repo
+(encryption key may be released after 15-Sep-2016).
